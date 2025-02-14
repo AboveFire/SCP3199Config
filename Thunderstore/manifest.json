@@ -1,0 +1,11 @@
+{
+    "name": "SCP3199Config",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/AboveFire",
+    "description": "This mod makes it so you can configure the spawn rate of SCP1399 which has no config as of yet.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Xilef.LethalBestiary",
+        "ProjectSCP-SCP3199"
+    ]
+}
